@@ -120,7 +120,7 @@
 
 // // Question 1 answer
 
-// var Variable1, Variable2,Variable3;
+// var Variable1, Variable2 ,Variable3;
 
 // // Question 2 answer
 
@@ -186,15 +186,13 @@
 // document.write("<p>"+ num1 + " % " + num2 + " = " + num6 + "</p>");
 
 
-// // Question 3 answer
+// // Question 4 answer
+var ticketPrice = 600;
+var totalTickets = 5;
+var totalCost = ticketPrice * ticketPrice;
 
-
-
-
-
-
-
-
+document.write("<h1>Movie Ticket Cost</h1>");
+document.write("<h1>The cost of buying " + totalTickets + " Tickets to the movie is " + ticketPrice + " PKR </h1>")
 
 
 
